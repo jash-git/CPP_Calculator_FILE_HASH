@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1550194488 source:c:\users\rd\desktop\cpp_sha1\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<errno.h>
+

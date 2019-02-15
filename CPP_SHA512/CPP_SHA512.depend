@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1550195956 source:c:\users\rd\desktop\cpp_sha512\main.cpp
+	<iostream>
+	<fstream>
+	<cstdio>
+

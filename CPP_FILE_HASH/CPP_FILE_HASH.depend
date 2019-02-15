@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1550191918 source:c:\users\rd\desktop\cpp_file_hash\main.cpp
+	<iostream>
+	<string>
+	<cstdio>
+	"md5_wrapper.h"
+
+1452722276 source:c:\users\rd\desktop\cpp_file_hash\md5.cpp
+	"md5.h"
+
+1452722276 c:\users\rd\desktop\cpp_file_hash\md5.h
+	<string>
+	<cstring>
+
+1452722276 source:c:\users\rd\desktop\cpp_file_hash\md5_wrapper.cpp
+	<fstream>
+	<iostream>
+	"md5_wrapper.h"
+	"md5.h"
+
+1452722276 c:\users\rd\desktop\cpp_file_hash\md5_wrapper.h
+	<string>
+
